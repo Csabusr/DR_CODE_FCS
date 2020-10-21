@@ -1,0 +1,7 @@
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\bin\Debug\002_calc.exe.config
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\bin\Debug\002_calc.exe
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\bin\Debug\002_calc.pdb
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\obj\Debug\002_calc.csprojAssemblyReference.cache
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\obj\Debug\002_calc.csproj.CoreCompileInputs.cache
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\obj\Debug\002_calc.exe
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\2.óra\002_calc\002_calc\obj\Debug\002_calc.pdb

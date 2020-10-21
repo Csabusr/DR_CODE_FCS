@@ -1,0 +1,7 @@
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\bin\Debug\Alapok.exe.config
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\bin\Debug\Alapok.exe
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\bin\Debug\Alapok.pdb
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\obj\Debug\Alapok.csprojAssemblyReference.cache
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\obj\Debug\Alapok.csproj.CoreCompileInputs.cache
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\obj\Debug\Alapok.exe
+C:\Users\Fügedi Csaba\OneDrive - Kormányzati Informatikai Fejlesztési Ügynökség\Oktatás\Órai Programok\1.óra\001_Alapok\Alapok\Alapok\obj\Debug\Alapok.pdb
