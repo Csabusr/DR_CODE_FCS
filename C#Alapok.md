@@ -53,19 +53,27 @@
 |<p align="center"> < és > </p>| <p align="center">Relációjelek ( Nagyobb )</p> |
 
 
-### Elágazás opciók  
-  
-* ### If (feltétel;) Parancs1; 
-* ### If (feltétel;) {Parancs1; Parancs2; Parancsn;}
+## Elágazás opciók  
+### IF
+
 <hr></hr>
 
-* ### If (feltétel;) Parancs1; 
-    ### Else Parancs1;
-* ### If (feltétel;) {Parancs1; Parancs2; Parancsn;}   
-    ### Else {Parancs1; Parancs2; Parancsn;}
+* #### If (feltétel;) Parancs1; 
+* #### If (feltétel;) {Parancs1; Parancs2; Parancsn;}
+
+<hr></hr>
+
+* #### If (feltétel;) Parancs1; 
+    #### Else Parancs1;
+* #### If (feltétel;) {Parancs1; Parancs2; Parancsn;}   
+    #### Else {Parancs1; Parancs2; Parancsn;}
     
-    
-### *Else = különben
+**Else = különben* 
+
+<hr></hr>  
+
+
+
 
 
 
