@@ -37,6 +37,8 @@
 |------------------------|----------------------|
 |<p align="center"> WriteLine() </p>| <p align="center">Kiíratás</p> |
 |<p align="center"> ReadLine() </p>| <p align="center">Beolvasás</p> |
+|<p align="center"> tipus.Parse() </p>| <p align="center">Típus konvertálás</p> |
+|<p align="center"> (int) a </p>| <p align="center">Típus kényszerítés</p> |
 
 ### Operátorok 
 | Operátor | Funkció |
