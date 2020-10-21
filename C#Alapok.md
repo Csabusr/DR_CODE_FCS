@@ -4,6 +4,7 @@
 
 ### Mik a fontos karakterek a c#-ban?
 
+<div align="center">
 
 | Jel, Karakter | Felhasználása|
 |------------------------|----------------------|
@@ -15,7 +16,7 @@
 |<p align="center"> == </p>| <p align="center">Logikai Operátor ( Egyenlő )</p> |
 |<p align="center"> != </p>| <p align="center">Logikai Operátor ( Nem Egyenlő )</p> |
 |<p align="center"> < és > </p>| <p align="center">Relációjelek ( Nagyobb )</p> |
-
+</div>
 
 ## 
 
