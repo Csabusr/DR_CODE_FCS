@@ -1,4 +1,4 @@
-# C#Alapok
+﻿# C#Alapok
 
 ## Fontos tudnivalók
 
@@ -74,11 +74,40 @@
 
 <hr></hr>  
 
+### Switch Case
 
+* #### Swicth(feltétel)
+     #### case 'teljesül': Parancso1; or ParancsN; break;
 
+## Ciklusok
 
+### Kötött lépésszámú  
+  
+for(int i=0; i < lépésszám; i++;)
+{
+    parancs1; or parancsN;
+}
 
+### Elöltesztelős ciklus amíg igaz fut (while)
 
+while(feltétel)
+{ 
+    parancs1; or parancsN;
+}
+
+### Elöltesztelős ciklus amíg hamis fut (do, while)
+
+do
+{ 
+    parancs1; or parancsN;
+} while(feltétel)
+
+### Foreach
+
+foreach(típus név in összetett adatszerkezet)
+{
+    parancs1; or parancsN;
+}
 
 
 
