@@ -1,0 +1,1 @@
+Az elkészített feladatokat ide töltsék fel, Zip vagy Rar formátumban.
